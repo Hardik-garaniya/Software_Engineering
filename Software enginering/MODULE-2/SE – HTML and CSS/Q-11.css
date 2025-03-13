@@ -1,0 +1,24 @@
+/* styles.css - Link Pseudo-Classes */
+
+/* Default link style */
+a:link {
+    color: blue;          
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Visited link style */
+a:visited {
+    color: purple;       
+}
+
+/* Hovered link style */
+a:hover {
+    color: red;           
+    text-decoration: underline;
+}
+
+/* Active link style */
+a:active {
+    color: orange;        
+}

@@ -1,0 +1,30 @@
+
+body {
+    margin: 0;
+    padding: 200px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+h1 {
+    color: grey;
+    margin-top: 50px;
+}
+
+button.dynamic-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+
+button.dynamic-button:hover {
+    background-color: grey;
+    
+}
